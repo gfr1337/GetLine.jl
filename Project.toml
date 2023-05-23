@@ -2,6 +2,3 @@ name = "GetLine"
 uuid = "b948fe99-1ce1-451f-ae9e-ed8b2e01eff8"
 authors = ["George Rogers <george.f.rogers@gmail.com>"]
 version = "0.1.0"
-
-[deps]
-Registrator = "4418983a-e44d-11e8-3aec-9789530b3b3e"
