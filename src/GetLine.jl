@@ -1,4 +1,5 @@
 module GetLine
+export getline
 
 """
     getline(in; default=nothing)
