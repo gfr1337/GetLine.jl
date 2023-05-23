@@ -1,7 +1,7 @@
 module GetLine
 
 """
-    getline(in, default=nothing)
+    getline(in; default=nothing)
 
 Reads a line removing whitespace, if eof is reached returns `default`
 """
